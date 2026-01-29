@@ -4,11 +4,13 @@ Bem-vindo ao **TripMe**! Este é um projeto de uma Landing Page moderna e respon
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um **curso de Front-end da DevStar**, com o objetivo de **treinar e consolidar conhecimentos fundamentais de HTML e CSS**, aplicando boas práticas de estruturação, semântica e estilização.
+Este projeto foi desenvolvido como parte de um **curso de Front-end da DevStar**, com o objetivo de treinar e consolidar conhecimentos em **HTML semântico e CSS**, aplicando conceitos de layout, estilização e experiência do usuário.
 
-Além do aprendizado prático, o projeto também foi criado para ser **submetido à análise e avaliação de um instrutor**, servindo como exercício de fixação e demonstração de evolução técnica no desenvolvimento front-end.
+A proposta da Landing Page foi adaptada para uma **temática sombria e sobrenatural**, simulando uma experiência de turismo macabro em um vilarejo amaldiçoado, abandonado após um massacre ocorrido séculos atrás.
 
-O foco principal está na criação de uma **Landing Page funcional, organizada e com boa experiência do usuário (UX)**, sem a utilização de JavaScript, conforme os requisitos propostos no desafio.
+O foco do projeto está na **criação de atmosfera visual**, utilizando cores escuras, contrastes, imagens de fundo impactantes e efeitos de hover, tudo sem o uso de JavaScript, conforme os requisitos do desafio.
+
+Este projeto será **submetido à análise de um instrutor**, servindo como exercício prático de avaliação e evolução no desenvolvimento front-end.
 
 ### ✨ Funcionalidades
 
